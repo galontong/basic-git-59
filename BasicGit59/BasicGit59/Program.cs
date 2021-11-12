@@ -58,7 +58,7 @@ namespace BasicGit59
 
         public static void Kris()
         {
-
+            Console.WriteLine("Saya Kristianto");
         }
     }
 }
