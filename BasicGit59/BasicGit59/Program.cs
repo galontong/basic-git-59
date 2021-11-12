@@ -18,6 +18,7 @@ namespace BasicGit59
             Console.WriteLine("FITUR A BY : HERUL");
             Console.WriteLine("FITUR A BY : Dimas");
             Console.WriteLine("FITUR A BY : Bagoes");
+            Console.WriteLine("FITUR A BY : JOES");
         }
     }
 }
