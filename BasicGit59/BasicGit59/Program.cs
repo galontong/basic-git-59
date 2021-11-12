@@ -28,7 +28,7 @@ namespace BasicGit59
         
         public static void Bagoes()
         {
-
+            Console.WriteLine("Tugas Bagoes");
         }
 
         public static void Dimas()
