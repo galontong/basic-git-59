@@ -48,7 +48,7 @@ namespace BasicGit59
 
         public static void Khadafi()
         {
-
+            Console.WriteLine("Halo, saya Khadafi")
         }
 
         public static void Sania()
