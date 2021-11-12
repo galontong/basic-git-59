@@ -43,7 +43,7 @@ namespace BasicGit59
 
         public static void Joes()
         {
-
+            Console.WriteLine("Joes");
         }
 
         public static void Khadafi()
