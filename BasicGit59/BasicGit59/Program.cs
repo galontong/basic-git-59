@@ -53,7 +53,8 @@ namespace BasicGit59
 
         public static void Sania()
         {
-
+            Console.WriteLine("Hai teman teman");
+            Console.WriteLine("by sania");
         }
 
         public static void Kris()
