@@ -38,7 +38,7 @@ namespace BasicGit59
 
         public static void Faiz()
         {
-
+            Console.WriteLine("Hai Ini Faiz");
         }
 
         public static void Joes()
