@@ -33,6 +33,8 @@ namespace BasicGit59
 
         public static void Dimas()
         {
+            Console.WriteLine("Welcome");
+            Console.WriteLine("Touch By Dimas");
 
         }
 
