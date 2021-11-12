@@ -23,7 +23,7 @@ namespace BasicGit59
 
         public static void Agung()
         {
-
+            Console.WriteLine("hai");
         }
         
         public static void Bagoes()
